@@ -1,26 +1,21 @@
-name: Generate daily problem folders
+name: Generate daily problem folder
 
 on:
   push:
     branches:
       - main
     paths:
-      - README.md
-  workflow_dispatch:
+      - 'README.md'
 
 permissions:
   contents: write
-
-concurrency:
-  group: generate-daily-${{ github.ref }}
-  cancel-in-progress: false
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -28,22 +23,22 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
-      - name: Generate daily problem folders
+      - name: Run generator
         run: python .github/scripts/generate_daily.py
 
-      - name: Commit generated files
+      - name: Commit and push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add v2.2/daily
-
+          git config user.name "oneul0"
+          git config user.email "neul.dev@gmail.com"
+      
+          git add .
+      
           if git diff --cached --quiet; then
-            echo "No generated changes"
+            echo "No staged changes"
             exit 0
           fi
-
-          git commit -m "docs: generate daily problem folders"
-          git push origin "HEAD:${{ github.ref_name }}"
+      
+          git commit -m "docs: generate daily folder from README"
+          git push origin HEAD:${{ github.ref_name }}
