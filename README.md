@@ -26,9 +26,6 @@
     <td align="center"><a href="https://github.com/Sangyoon-Shin"><img src="https://avatars.githubusercontent.com/Sangyoon-Shin" width="150px;" alt="Sangyoon-Shin"></a></td>
     <td align="center"><a href="https://github.com/BBZJUN"><img src="https://avatars.githubusercontent.com/BBZJUN" width="150px;" alt="BBZJUN"></a></td>
     <td align="center"><a href="https://github.com/yonseeee"><img src="https://avatars.githubusercontent.com/yonseeee" width="150px;" alt="yonseeee"></a></td>
-    <td align="center"><a href="https://github.com/ye0ngeun"><img src="https://avatars.githubusercontent.com/ye0ngeun" width="150px;" alt="ye0ngeun"></a></td>
-    <td align="center"><a href="https://github.com/Woody-Hill"><img src="https://avatars.githubusercontent.com/Woody-Hill" width="150px;" alt="Woody-Hill"></a></td>
-    <td align="center"><a href="https://github.com/yeeunma"><img src="https://avatars.githubusercontent.com/yeeunma" width="150px;" alt="Sangyoon-Shin"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/oneul0"><b>김기훈</b></a></td>
@@ -36,9 +33,6 @@
     <td align="center"><a href="https://github.com/Sangyoon-Shin"><b>신상윤</b></a></td>
     <td align="center"><a href="https://github.com/BBZJUN"><b>강재준</b></a></td>
     <td align="center"><a href="https://github.com/yonseeee"><b>김세연</b></a></td>
-    <td align="center"><a href="https://github.com/ye0ngeun"><b>이영은</b></a></td>
-    <td align="center"><a href="https://github.com/Woody-Hill"><b>김준우</b></a></td>
-    <td align="center"><a href="https://github.com/yeeunma"><b>마예은</b></a></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
@@ -46,7 +40,25 @@
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/ye0ngeun"><img src="https://avatars.githubusercontent.com/ye0ngeun" width="150px;" alt="ye0ngeun"></a></td>
+    <td align="center"><a href="https://github.com/Woody-Hill"><img src="https://avatars.githubusercontent.com/Woody-Hill" width="150px;" alt="Woody-Hill"></a></td>
+    <td align="center"><a href="https://github.com/yeeunma"><img src="https://avatars.githubusercontent.com/yeeunma" width="150px;" alt="yeeunma"></a></td>
+    <td align="center"><a href="https://github.com/hyunji-ch5i15"><img src="https://avatars.githubusercontent.com/hyunji-ch5i15" width="150px;" alt="hyunji-ch5i15"></a></td>
+    <td align="center"><a href="https://github.com/qkrcjsdlr10"><img src="https://avatars.githubusercontent.com/qkrcjsdlr10" width="150px;" alt="qkrcjsdlr10"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ye0ngeun"><b>이영은</b></a></td>
+    <td align="center"><a href="https://github.com/Woody-Hill"><b>김준우</b></a></td>
+    <td align="center"><a href="https://github.com/yeeunma"><b>마예은</b></a></td>
+    <td align="center"><a href="https://github.com/hyunji-ch5i15"><b>최현지</b></a></td>
+    <td align="center"><a href="https://github.com/qkrcjsdlr10"><b>박천익</b></a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
+    <td><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
   </tr>
