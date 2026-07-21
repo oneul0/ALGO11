@@ -35,10 +35,10 @@
     <td align="center"><a href="https://github.com/yeonju73"><b>박연주</b></a></td>
     <td align="center"><a href="https://github.com/Sangyoon-Shin"><b>신상윤</b></a></td>
     <td align="center"><a href="https://github.com/BBZJUN"><b>강재준</b></a></td>
-    <td align="center"><a href="https://github.com/yonseeee"><b김세연</b></a></td>
-    <td align="center"><a href="https://github.com/ye0ngeun"><b이영은</b></a></td>
+    <td align="center"><a href="https://github.com/yonseeee"><b>김세연</b></a></td>
+    <td align="center"><a href="https://github.com/ye0ngeun"><b>이영은</b></a></td>
     <td align="center"><a href="https://github.com/Woody-Hill"><b>김준우</b></a></td>
-    <td align="center"><a href="https://github.com/yeeunma"><b마예은</b></a></td>
+    <td align="center"><a href="https://github.com/yeeunma"><b>마예은</b></a></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
